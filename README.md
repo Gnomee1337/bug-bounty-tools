@@ -1,5 +1,5 @@
-# Bug Bounty
-# Tools:
+# Bug Bounty Tools:
+## Origin: https://bugbountyforum.com
 
 ## Recon
 ### DNS Discovery:
